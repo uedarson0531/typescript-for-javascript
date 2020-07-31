@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/uedarson0531/typescript-for-javascript/issues"
   },
-  "homepage": "https://github.com/uedarson0531/typescript-for-javascript#readme"
+  "homepage": "https://github.com/uedarson0531/typescript-for-javascript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
 }
